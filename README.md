@@ -1,5 +1,5 @@
 <h1 align="center">Hello There! I'm Davi</h1>
-<h3 align="center">I'm currently studying Information Systems and committed in learning Back and Front-End programming. I'm looking to collaborate on new projects to expand my knowledge at programming</h3>
+<h3 align="center">I'm currently studying Information Systems and committed in learning Back and Front-End programming. I'm looking to collaborate on new projects to expand my knowledge at programming!</h3>
 
 
 <h3 align="left">Connect with me:</h3>
